@@ -92,5 +92,3 @@ function oddFriend(friends) {
         }
     }
 }
-
-console.log(oddFriend(12))
